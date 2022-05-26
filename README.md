@@ -1,6 +1,6 @@
 
 <img align="right" height="590em" alt="Banner Personal" src=""/>
-<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">Eae! Luiz Henrique aqui👨‍💻</h1>
+<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">Eae! Me chamo Luiz Henrique e sou apaixonado por Tecnologias👨‍💻 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luizhenrique0101&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
@@ -17,11 +17,14 @@
 
 <br><br>
 
-## 🛠 &nbsp;Tech Stack
+##  Linguagens que estudo atualmente
 
 <div>
-   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="Rafa-Js" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Rafa-HTML" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="Rafa-CSS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Rafa-Python" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Rafa-Python" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">        
 </div>
 
 
@@ -58,14 +61,3 @@
 
 <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
 
-
-
-<div>
-  <h2>Tecnologias que utilizo</h2>
-  <img align="center" alt="Luiz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Luiz-MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg">
-  <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
