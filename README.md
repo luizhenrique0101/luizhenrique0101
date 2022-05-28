@@ -1,18 +1,6 @@
 <h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">Eae! Me chamo Luiz Henrique e sou apaixonado por Tecnologia👨‍💻 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luizhenrique0101&color=yellow" alt="Profile views" /> </p>
 
-- 🔥  
-
-- 🔭 
-
-- 👨‍💻 
-
-- ▶️ 
-
-- 💬 
-
-- ⚡ 
-
 <br><br>
 
 ##  Linguagens que estudo atualmente
