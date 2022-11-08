@@ -34,7 +34,7 @@
   <img align="center" src="https://img.shields.io/badge/-Luiz Henrique-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-lzhenrique-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://youtube.com/channel/UC02YvqW9wkSVOyhti_VoUpQ" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Luiz O Programador-05122A?style=flat&logo=youtube" alt="youtube"/>
