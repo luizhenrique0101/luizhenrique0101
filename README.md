@@ -1,4 +1,3 @@
-
 - 🔥 I'm Luiz and since I was a child I've always enjoyed to creating hiccups for problems
 
 - ⚡ My biggest dream is to work in a big company as a programmer
@@ -31,10 +30,7 @@
 <a href="https://codepen.io/maykbrito" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
-<a href="https://twitter.com/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
+<a href="https://www.linkedin.com/in/luiz-henrique-bb2b9b23a" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/maykbrito" target="_blank">
