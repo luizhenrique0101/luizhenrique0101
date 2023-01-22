@@ -4,8 +4,6 @@
 
 - 👨‍💻 I'll be a Future Software Engineer
 
-- 🚀 Feel free to see my <a href="https://replit.com/@luizhenrique010">Replit Profile</a>
-
 
 <br><br>
 
