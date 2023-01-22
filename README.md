@@ -2,7 +2,7 @@
 
 - ⚡ My biggest dream is to work in a big company as a programmer
 
-- 👨‍💻 I'll be a Future Web Developer FullStack
+- 👨‍💻 I'll be a Future Software Engineer
 
 - 🚀 Feel free to see my <a href="https://replit.com/@luizhenrique010">Replit Profile</a>
 
